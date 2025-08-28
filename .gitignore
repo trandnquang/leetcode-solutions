@@ -15,11 +15,7 @@
 /release/
 
 # VS Code specific files
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 
 # OS-specific files
 .DS_Store
