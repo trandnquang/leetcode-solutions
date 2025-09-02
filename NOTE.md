@@ -7,3 +7,4 @@
 ## Some unfinished problems
 
 - Problem 1769: Need to add prefix sum solution
+- Problem 3427: Just unfinished.
