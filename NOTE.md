@@ -3,8 +3,11 @@
 ## Some problems need to revise
 
 - Problem 560: About how to use Prefix Sum and Hash Map.
+- Problem 17: About backtracking and using push_back() and pop_back() with string.
+- Problem 88: See again the solution of the another people.
 
 ## Some unfinished problems
 
-- Problem 1769: Need to add prefix sum solution
+- Problem 1769: Need to add prefix sum solution.
 - Problem 3427: Just unfinished.
+- Problem 49: Just unfinished.
