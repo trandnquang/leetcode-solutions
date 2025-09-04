@@ -1,5 +1,11 @@
 # NOTE for LEETCODE Algorithm problems
 
+## This repository focuses only on problems that require real attention
+
+- Excludes trivial or easy-to-solve problems.
+- Filters out problems that are not important.
+- Avoids unnecessary additions or distracting information.
+
 ## Some problems need to revise
 
 - Problem 560: About how to use Prefix Sum and Hash Map.
