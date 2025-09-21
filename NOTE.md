@@ -2,7 +2,7 @@
 
 In Sunday each week, I spent time to solve each topic of problems
 
-+ Week 1: Arrays
++ Week 1: Array
 
 ## This repository focuses only on problems that require real attention
 
