@@ -24,7 +24,7 @@
 
 + Sort Colors (75) → Dutch National Flag problem, three pointers ⚠️ Need to review the second solution ⚠️
 
-+ Product of Array Except Self (238) → prefix & suffix products (no division)
++ Product of Array Except Self (238) → prefix & suffix products (no division) ⚠️ Need to review the second solution ⚠️
 
 ## 🌳 Challenge (build confidence before moving to harder DS)
 
