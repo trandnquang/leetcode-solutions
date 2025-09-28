@@ -2,37 +2,37 @@
 
 ## 🌱 Beginner (Basic operations & scanning)
 
-+ Maximum Subarray (LeetCode 53) → Kadane’s algorithm (we covered today) ✅
+1. Maximum Subarray (LeetCode 53) → Kadane’s algorithm (we covered today) ✅
 
-+ Remove Duplicates from Sorted Array (26) → two pointers, overwrite array in-place ✅
+2. Remove Duplicates from Sorted Array (26) → two pointers, overwrite array in-place ✅
 
-+ Remove Element (27) → similar to #2 but with a given value ✅
+3. Remove Element (27) → similar to #2 but with a given value ✅
 
-+ Move Zeroes (283) → two pointers, stable shifting ✅
+4. Move Zeroes (283) → two pointers, stable shifting ✅
 
-+ Plus One (66) → carry handling in arrays ✅
+5. Plus One (66) → carry handling in arrays ✅
 
-+ Merge Sorted Array (88) → in-place merging from the back ✅
+6. Merge Sorted Array (88) → in-place merging from the back ✅
 
 ## 🌿 Intermediate (slightly tricky logic, but no hash maps)
 
-+ Rotate Array (189) → reverse method or extra array ⚠️ Need to review the second solution ⚠️
+7. Rotate Array (189) → reverse method or extra array ⚠️ Need to review the second solution ⚠️
 
-+ Best Time to Buy and Sell Stock (121) → track min, compute profit on the fly ✅
+8. Best Time to Buy and Sell Stock (121) → track min, compute profit on the fly ✅
 
-+ Squares of a Sorted Array (977) → two-pointer from ends (because negatives) ✅ (Need to review)
+9. Squares of a Sorted Array (977) → two-pointer from ends (because negatives) ✅ (Need to review)
 
-+ Sort Colors (75) → Dutch National Flag problem, three pointers ⚠️ Need to review the second solution ⚠️
+10. Sort Colors (75) → Dutch National Flag problem, three pointers ⚠️ Need to review the second solution ⚠️
 
-+ Product of Array Except Self (238) → prefix & suffix products (no division) ⚠️ Need to review the second solution ⚠️
+11. Product of Array Except Self (238) → prefix & suffix products (no division) ⚠️ Need to review the second solution ⚠️
 
 ## 🌳 Challenge (build confidence before moving to harder DS)
 
-+ Container With Most Water (11) → two-pointer shrinking window
+12. Container With Most Water (11) → two-pointer shrinking window ✅
 
-+ Trapping Rain Water (42) → left-right max arrays OR two-pointer method
+13. Trapping Rain Water (42) → left-right max arrays OR two-pointer method ⚠️ Need to review the second solution ⚠️
 
-(If you want to go further later: Spiral Matrix (54), Set Matrix Zeroes (73), Game of Life (289) — matrix manipulation practice.)
+(If you want to go further later: Spiral Matrix (54) ✅ (Need to review), Set Matrix Zeroes (73) ✅ (Need to review), Game of Life (289) — matrix manipulation practice.)
 
 ## 🔑 Why this order works
 
