@@ -41,12 +41,17 @@ using namespace std;
 vector<int> productExceptSelf(vector<int>& nums) {
     vector<int> ans(nums.size());
     ans[0] = 1;
+    // First calculate prefix and store in ans
+    // ex: nums = [1,2,3,4]
+    // ans = [1,0,0,0] -> [1,1,2,6]
     for (int i = 0; i < nums.size() - 1; i++) {
         ans[i+1] = ans[i] *  nums[i];
     }
 
     int postPrefixTemp = 1;
-
+    // Then calculate suffix and multiply to ans
+    // ex: nums = [1,2,3,4]
+    // ans = [1,1,2,6] -> [24,12,8,6]
     for (int i = nums.size() - 2; i >= 0; i--) {
         postPrefixTemp *= nums[i+1];
         ans[i] *= postPrefixTemp;
