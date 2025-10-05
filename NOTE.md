@@ -2,7 +2,8 @@
 
 In Sunday each week, I spent time to solve each topic of problems
 
-+ Week 1: Array
++ Week 1-2: Array
++ Week 3-: String
 
 ## This repository focuses only on problems that require real attention
 
